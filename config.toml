@@ -13,7 +13,7 @@ editor = "nano"
 languageCode = "en"
 language = "en"
 theme = "vncnt-hugo"
-title = "John Doe · Landing Page"
+title = "Evan Remmele"
 
 [blackfriday]
   extensions = ["hardLineBreak"]
@@ -35,3 +35,4 @@ title = "John Doe · Landing Page"
     github = "https://github.com/eremm"
     instagram = "https://instagram.com/evanremmele"
     #twitter = "https://twitter.com/"
+    #linkedin = "https://linkedin.com/"
